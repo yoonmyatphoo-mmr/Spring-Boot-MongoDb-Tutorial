@@ -28,7 +28,7 @@ Project is created with:
 ### 🥡Clone Project
 * Clone the repo
 ```sh
-git clone https://github.com/yoonmyatphoo-mmr/Spring-Boot_mongoDb-Tutorail.git
+git clone https://github.com/yoonmyatphoo-mmr/Spring-Boot_mongoDb-Tutorial.git
 ```
 
  <a name="contact"></a>
@@ -36,6 +36,6 @@ git clone https://github.com/yoonmyatphoo-mmr/Spring-Boot_mongoDb-Tutorail.git
    * Name - Yoon Myat Phoo 
    * LinkedIn profile - [Yoon Myat Phoo's LinkedIn](https://www.linkedin.com/in/yoon-myat-phoo-9b32531b7/)
    * Email Address - yoonmyatphoo.mmr@gmail.com
-   * Project Link - [Spring-Boot-MongoDb-Tutorial](https://github.com/yoonmyatphoo-mmr/Spring-Boot_mongoDb-Tutorail)
+   * Project Link - [Spring-Boot-MongoDb-Tutorial](https://github.com/yoonmyatphoo-mmr/Spring-Boot_mongoDb-Tutorial)
     
     	
