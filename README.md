@@ -22,7 +22,7 @@ Project is created with:
 * Spring Data MongoDb
 * Mongock
 * lombok
-* MongoDb
+* MongoDb Database
 
  <a name="clone-project"></a>
 ### 🥡Clone Project
