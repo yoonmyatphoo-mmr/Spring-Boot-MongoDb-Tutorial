@@ -7,8 +7,8 @@
 * [Contact Me](#contact)
 
 
-<a name="general-info"></a>
-## ⚡General info
+<a name="overview"></a>
+## ⚡Overview
 This project focuses on implementing database migrations for a Spring Boot application using MongoDB.
  Firstly,I created simple REST API for the expense-tracker application.
  The MongoDB tool from [Mongock's official website link](https://mongock.io/) is downloaded to facilitate tracking, managing, and applying database schema changes. 
